@@ -73,37 +73,20 @@ experiences:
     time: 2020 - Present
     company: Bright Coders, Colima
     details: |
-      
 
   - role: Junior Mobile Developer
     time: 2019 - 2020
     company: InnovaThing, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-
-  - role: Junior Mobile Designer (Scholar project) 
-    time: 2020 - 2020
-    company: Colima University
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      In this project, we created a mobile application like the application called "Rappi", I designed with Adobe XD and Figma, and after the design was accepted, I coding in XML on Android Studio to recreate the mockup.
+      I developed a functions of the app in Kotlin for views.
 
   - role: Shopify Developer 
     time: 2021 - current
     company: Elle Frigo, Colima
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      For this project/startup, I'm the Shopify Developer and I create the website, theme, notifications, codes, funnels, heatmaps.
+      I investigated a little of the SEO and search for ads.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -115,20 +98,8 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Ruby
-      level: 60%
-
-    - name: Ruby on Rails
-      level: 60%
-
     - name: Javascript
       level: 80%
-
-    - name: NodeJs
-      level: 40%
-
-    - name: Typescript
-      level: 60%
 
     - name: HTML
       level: 80%
@@ -139,11 +110,23 @@ skills:
     - name: Bootstrap 4
       level: 80%
 
-    - name: Bulma.io
-      level: 40%
-
     - name: Sass
       level: 80%
+
+    - name: Ruby
+      level: 60%
+
+    - name: Ruby on Rails
+      level: 60%
+
+    - name: Typescript
+      level: 60%
+
+    - name: NodeJs
+      level: 40%
+
+    - name: Bulma.io
+      level: 40%
 
     - name: XML
       level: 40%
@@ -160,14 +143,14 @@ skills:
     - name: SQL
       level: 40%
 
-    - name: Redis
-      level: 20%
-
     - name: Linux
       level: 40%
 
     - name: Heroku
       level: 40%
+
+    - name: Redis
+      level: 20%
 
     - name: CircleCI
       level: 20%
